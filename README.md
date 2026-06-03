@@ -5,7 +5,7 @@ My main interest is network infrastructure – how networks are designed, config
 
 ## 🎓 Education
 
-IT student at **Uniwersystet DSW Ideis Kraków (formerly WSEI)**
+IT student at **Uniwersytet DSW Ideis Kraków (formerly WSEI)**
 Specialization: **Computer Networks**
 
 ## 📚 Certifications
